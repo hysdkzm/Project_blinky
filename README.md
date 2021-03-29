@@ -12,7 +12,7 @@
 
 ### ファイルについて
 
-主に使ったのはpixel_img.py,pixel.py,kiridashi.py
+主に使ったのは **pixel_img.py, pixel.py, kiridashi.py**
 
 動画撮影　**（THETA V）**<br>
 ⇒　平面動画に変換　**（PCアプリ）** <br>
